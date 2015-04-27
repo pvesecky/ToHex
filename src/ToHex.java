@@ -121,7 +121,7 @@ public class ToHex {
 		 * Variablendeklaration und Inistalisierung
 		 * 
 		 */
-		int rest = 0;
+		int rest = 1;
 		int divisor = 0;
 		int dividend = 0;
 		String hauptString = "";
